@@ -1,0 +1,15 @@
+batch_size: 1
+datasets_folder: remove_bessel_bg_signal
+datasets_path: /home/wwh/Dataset/simulation/
+gap_h: 80
+gap_s: 80
+gap_w: 80
+img_h: 176
+img_s: 176
+img_w: 176
+log_folder: 0
+lr: 7.0e-05
+n_epochs: 30
+normalize_factor: 65535
+output_dir: /home/wwh/code/DLT-main/log/bg_remove/uformer_nnet_3d
+train_datasets_size: 1000

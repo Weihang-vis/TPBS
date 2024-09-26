@@ -1,0 +1,6 @@
+[2023-09-12 01:46:42,    1, 0.00002] val_loss=0.0842, val_psnr=43.0852, val_psnr_mean_img=40.2266, 
+[2023-09-12 03:50:27,    2, 0.00005] val_loss=0.0868, val_psnr=42.9052, val_psnr_mean_img=40.3702, 
+[2023-09-12 05:52:42,    3, 0.00009] val_loss=0.0798, val_psnr=42.4960, val_psnr_mean_img=41.6443, 
+[2023-09-12 07:55:04,    4, 0.00015] val_loss=0.0859, val_psnr=43.1900, val_psnr_mean_img=41.5188, 
+[2023-09-12 09:56:40,    5, 0.00022] val_loss=0.0731, val_psnr=43.0985, val_psnr_mean_img=42.3142, 
+[2023-09-12 11:57:21,    6, 0.00030] val_loss=0.1113, val_psnr=42.4342, val_psnr_mean_img=39.7292, 

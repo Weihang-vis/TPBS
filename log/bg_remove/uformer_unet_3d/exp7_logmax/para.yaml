@@ -1,0 +1,15 @@
+batch_size: 1
+datasets_folder: segmentation
+datasets_path: /home/wwh/Dataset/simulation/
+gap_h: 90
+gap_s: 200
+gap_w: 90
+img_h: 176
+img_s: 176
+img_w: 176
+log_folder: 0
+lr: 0.0001
+n_epochs: 20
+normalize_factor: 65535
+output_dir: /home/wwh/code/DLT-main/log/bg_remove/uformer_unet_3d/exp7_logmax
+train_datasets_size: 4000

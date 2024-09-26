@@ -1,0 +1,6 @@
+[2023-09-12 01:46:42,    1, 0.00002] train_loss=0.0854, train_psnr=43.7239, train_psnr_mean_img=41.2460, 
+[2023-09-12 03:50:27,    2, 0.00005] train_loss=0.0737, train_psnr=44.8829, train_psnr_mean_img=42.4929, 
+[2023-09-12 05:52:42,    3, 0.00009] train_loss=0.0717, train_psnr=45.0470, train_psnr_mean_img=42.7626, 
+[2023-09-12 07:55:04,    4, 0.00015] train_loss=0.0699, train_psnr=45.0420, train_psnr_mean_img=43.2664, 
+[2023-09-12 09:56:40,    5, 0.00022] train_loss=0.0694, train_psnr=45.0164, train_psnr_mean_img=43.4693, 
+[2023-09-12 11:57:21,    6, 0.00030] train_loss=0.0716, train_psnr=44.9433, train_psnr_mean_img=43.1705, 
